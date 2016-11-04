@@ -17,6 +17,7 @@ public class FirstHalfAnaSecondHalf {
 	
 public static boolean	checkAna(String str)
 {
+	
 	boolean odd;
 	int len = str.length();
     if(len%2 == 0)
